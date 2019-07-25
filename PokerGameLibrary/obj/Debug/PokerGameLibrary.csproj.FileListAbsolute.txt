@@ -1,0 +1,5 @@
+C:\Mike\Work\Poker_Game\PokerGameWeb\PokerGameLibrary\bin\Debug\PokerGameLibrary.dll
+C:\Mike\Work\Poker_Game\PokerGameWeb\PokerGameLibrary\bin\Debug\PokerGameLibrary.pdb
+C:\Mike\Work\Poker_Game\PokerGameWeb\PokerGameLibrary\obj\Debug\PokerGameLibrary.dll
+C:\Mike\Work\Poker_Game\PokerGameWeb\PokerGameLibrary\obj\Debug\PokerGameLibrary.pdb
+C:\Mike\Work\Poker_Game\PokerGameWeb\PokerGameLibrary\obj\Debug\PokerGameLibrary.csprojResolveAssemblyReference.cache
