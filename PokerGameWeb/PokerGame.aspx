@@ -1,4 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PokerGame.aspx.cs" Inherits="PokerGameWeb.PokerGame" %>
+﻿<script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script> 
+
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PokerGame.aspx.cs" Inherits="PokerGameWeb.PokerGame" %>
 <%@ Register TagPrefix="UserControl" 
              TagName="PlayerHand" 
              Src="~/PlayerHand.ascx" %>
